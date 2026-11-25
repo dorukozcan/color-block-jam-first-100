@@ -1,0 +1,7 @@
+recording,level,t,steps,cards,price,balance,decision,decide_seconds,resume_timer,balance_after
+R05,51,308,fail_offer>fail_warn,Fail Offer+Golden Ticket,900,2630,bought,13,19,
+R06,59,739,fail_offer>fail_warn,Fail Offer+Golden Ticket,900,2200,declined,18,,
+R07,71,865,fail_offer>fail_lucky,Coin Madness+Fail Offer+Golden Ticket,900,2930,bought,9,38,2030
+R08,88,1558,fail_offer>fail_lucky,Coin Madness+Fail Offer,900,3260,bought,8,62,2360
+R08,94,2352,fail_offer,Coin Madness,900,3800,bought,4,11,2900
+R09,97,156,fail_offer,Coin Madness,900,3020,bought,2,19,
